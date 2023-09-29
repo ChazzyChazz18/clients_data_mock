@@ -1,26 +1,26 @@
 {
-  "clients": [
+  "customers": [
     {
       "id": "1",
-      "name": "Client 1",
+      "name": "Customer 1",
       "addressList": [
         {
-          "country": "Country 1",
-          "city": "City 1",
-          "street": "Street 1",
-          "houseNumber": "1"
+          "country": "Country 11",
+          "city": "City 11",
+          "street": "Street 11",
+          "houseNumber": "11"
         }
       ]
     },
     {
       "id": "2",
-      "name": "Client 2",
+      "name": "Customer 2",
       "addressList": [
         {
-          "country": "Country 2",
-          "city": "City 2",
-          "street": "Street 2",
-          "houseNumber": "2"
+          "country": "Country 21",
+          "city": "City 21",
+          "street": "Street 21",
+          "houseNumber": "21"
         },
         {
           "country": "Country 3",
@@ -28,6 +28,174 @@
           "street": "Street 3",
           "houseNumber": "3"
         }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Customer 3",
+      "addressList": [
+        {
+          "country": "Country 31",
+          "city": "City 31",
+          "street": "Street 31",
+          "houseNumber": "31"
+        },
+        {
+          "country": "Country 32",
+          "city": "City 32",
+          "street": "Street 32",
+          "houseNumber": "32"
+        },
+        {
+          "country": "Country 33",
+          "city": "City 33",
+          "street": "Street 33",
+          "houseNumber": "33"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Customer 4",
+      "addressList": [
+        {
+          "country": "Country 41",
+          "city": "City 41",
+          "street": "Street 41",
+          "houseNumber": "41"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Customer 5",
+      "addressList": [
+        {
+          "country": "Country 51",
+          "city": "City 51",
+          "street": "Street 51",
+          "houseNumber": "51"
+        },
+        {
+          "country": "Country 52",
+          "city": "City 52",
+          "street": "Street 52",
+          "houseNumber": "52"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Customer 6",
+      "addressList": [
+        {
+          "country": "Country 61",
+          "city": "City 61",
+          "street": "Street 61",
+          "houseNumber": "61"
+        },
+        {
+          "country": "Country 62",
+          "city": "City 62",
+          "street": "Street 62",
+          "houseNumber": "62"
+        },        
+        {
+          "country": "Country 63",
+          "city": "City 63",
+          "street": "Street 63",
+          "houseNumber": "63"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Customer 7",
+      "addressList": [
+        {
+          "country": "Country 71",
+          "city": "City 71",
+          "street": "Street 71",
+          "houseNumber": "71"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Customer 8",
+      "addressList": [
+        {
+          "country": "Country 81",
+          "city": "City 81",
+          "street": "Street 81",
+          "houseNumber": "81"
+        },
+        {
+          "country": "Country 82",
+          "city": "City 82",
+          "street": "Street 82",
+          "houseNumber": "82"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Customer 9",
+      "addressList": [
+        {
+          "country": "Country 91",
+          "city": "City 91",
+          "street": "Street 91",
+          "houseNumber": "91"
+        },
+        {
+          "country": "Country 92",
+          "city": "City 92",
+          "street": "Street 92",
+          "houseNumber": "92"
+        },        
+        {
+          "country": "Country 93",
+          "city": "City 93",
+          "street": "Street 93",
+          "houseNumber": "93"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Customer 10",
+      "addressList": [
+        {
+          "country": "Country 100",
+          "city": "City 100",
+          "street": "Street 100",
+          "houseNumber": "100"
+        },
+        {
+          "country": "Country 110",
+          "city": "City 110",
+          "street": "Street 110",
+          "houseNumber": "110"
+        },
+        {
+          "country": "Country 120",
+          "city": "City 120",
+          "street": "Street 120",
+          "houseNumber": "120"
+        },
+        {
+          "country": "Country 130",
+          "city": "City 130",
+          "street": "Street 130",
+          "houseNumber": "130"
+        },
+        {
+          "country": "Country 140",
+          "city": "City 140",
+          "street": "Street 140",
+          "houseNumber": "140"
+        },
       ]
     }
   ]
